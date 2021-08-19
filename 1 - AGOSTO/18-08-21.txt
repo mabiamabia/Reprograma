@@ -1,1 +1,14 @@
 Variaveis em javascript
+Documentação javascript
+Revisão aula sabado (git)
+
+
+*citações para pesquisar: *
+
+stackovewflow
+reddit
+pesquisar bitbucket
+
+Duvidas pessoais:
+
+Existem outras linguagens deversionamento parecidos com git?
