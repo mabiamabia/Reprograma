@@ -1,1 +1,9 @@
 Logica de programação
+Variáveis em Javascript
+
+
+citações:
+
+banco de dados não-relacional (NoSQL)
+https://docs.microsoft.com/pt-br/azure/architecture/data-guide/big-data/non-relational-data
+
