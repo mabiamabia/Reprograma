@@ -2,8 +2,6 @@
 
 O que é JS?
 
-
-
 Como fazer a integração entre HTML/CSS/JS
  - HTML > Estrutura de marcação de pagina
  - CSS > Estilo de uma pagina
