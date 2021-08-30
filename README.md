@@ -1,11 +1,15 @@
-# -Reprograma-
-Documentação em contrução
+# Reprograma
 
-bora começar~
+✨Documentação em construção
+
+~bora fazendo
 
 Tecnologias utilizadas:
-Javascript, Node.js, MongoDB
 
+Javascript, Node.js, MongoDB
+// colocar badges bonitos
+
+como documentar node? pesquisar
 Imagens:
 
 ![supermercado pague mais](https://user-images.githubusercontent.com/49458473/131409978-ecdb4684-38bc-4d31-b37a-ecd0e5ba396c.png)
