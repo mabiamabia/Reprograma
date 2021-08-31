@@ -19,8 +19,5 @@ colocar + Imagens de projetos:
 
 
 
-![Escola aprendere](https://user-images.githubusercontent.com/49458473/131409989-23a2ea50-4d9f-4b4d-85a0-c6e5f1c9842a.png)
-
-
 
 
