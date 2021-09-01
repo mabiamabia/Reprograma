@@ -3,9 +3,7 @@
 
 ## ✨Documentação em construção
 
-## ~bora fazendo?? 
-
-Tecnologias utilizadas:
+## Tecnologias utilizadas:
 
 Javascript, Node.js, MongoDB
 // colocar badges bonitos
