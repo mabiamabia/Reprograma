@@ -8,7 +8,7 @@
 Javascript, Node.js, MongoDB
 // colocar badges bonitos
 
-como documentar node? pesquisar
+como documentar node? pesquisar.
 
 
 colocar + Imagens de projetos:
