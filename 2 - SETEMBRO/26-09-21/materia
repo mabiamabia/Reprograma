@@ -1,6 +1,13 @@
-apresentação da professora
-apresentação das alunes
-materia javascrip
+-apresentação da professora
+-apresentação das alunes
 
+materia javascrip Assíncrono
+    setTimeout();
+    eventloop;
+callbacks;
+Promises;
+Async/await;
+    try/catch;
 
-callback
+Ciclo de vida das aplicações javascript
+funções sincronas/ funções assincronas
