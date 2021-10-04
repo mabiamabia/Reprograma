@@ -1,0 +1,31 @@
+prof analu:
+
+https://github.com/prisciladuarte/On14-TodasEmTech-s8-API-GET-POST
+
+api -  get e post
+------------------------------------------------------
+crud:
+create = post
+read = get
+update = put e patch
+delete = delete
+
+------------------------------------------
+modelo client - server
+http
+respostas http 
+api e api respostas
+------------------------------------
+node.js
+    gerenciador de pacotes:
+        npm e yarn
+    dependencias:
+
+express: framework
+ferramenta pra construir api's com nodeJS
+------------------------------------------------
+api rest: o basico
+porta
+http
+request
+response
