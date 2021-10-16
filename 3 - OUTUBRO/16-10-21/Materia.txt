@@ -1,1 +1,8 @@
 Apresentação da professora nova (Edilaine)
+revisão Api
+-criar o server.js (arquivo que vamos criar o servidor)
+-npm init -y (cria o package.json)
+-criar npm i express
+-npm i cors
+-npm i nodemon
+-cria o .gitignore(node_modules/)
